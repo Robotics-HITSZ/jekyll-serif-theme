@@ -1,8 +1,8 @@
 ---
-title 'Publications & Projects'
-date 2018-02-22T170134+0700
-layout page
-bodyClass page-about
+title: 'Publications & Projects'
+date: 2018-02-22T17:01:34+07:00
+layout: page
+bodyClass: page-about
 ---
 
 
