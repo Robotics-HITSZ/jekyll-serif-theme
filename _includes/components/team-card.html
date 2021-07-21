@@ -1,0 +1,17 @@
+{% for team in promoted_teams %}
+<div class="col-12 col-md-6 mb-2">
+  <figure class="snip0051 shadow rounded">
+    <img src="{{ team.image | relative_url }}" alt="{{ team.title }}" />
+    <div class="icons">
+      <a href="{{ team.url | relative_url }}"
+        ><i class="ion-ios-home-outline"></i
+      ></a>
+      <a href="mailto:{{team.email}}"><i class="ion-ios-email-outline"></i></a>
+    </div>
+    <figcaption>
+      <h2>{{team.title}} <span> {{team.jobtitle}} </span></h2>
+      <p class="card-content overflow-hidden">{{ team.summary }}</p>
+    </figcaption>
+  </figure>
+</div>
+{% endfor %}

@@ -12,7 +12,8 @@
   .hamburger-inner,
   .hamburger-inner::before,
   .hamburger-inner::after {
-    background: $primary;
+    // background: $primary;
+    background-color: white;
   }
   .hamburger-inner::after {
     width: 18px;
