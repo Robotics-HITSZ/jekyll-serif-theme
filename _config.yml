@@ -1,10 +1,11 @@
 baseurl: '/'
+permalink: pretty
 title: '机器人视觉与自动化实验室'
 lab: 'Vision based automation science and engineering'
 
 google_analytics_id: ""
 baidu_analytics_id: "ed33d03fa163ca0f90c97f458e4659fa"
-
+pic_bed: "https://gitee.com/dayuanc/robotics-hitsz-web/raw/master/"
 homepage:
   show_call_box: false
 
