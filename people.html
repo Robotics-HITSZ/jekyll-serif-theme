@@ -6,6 +6,50 @@ css: team_card.css
 
 <div id="content">
   <div class="row">
+    <div class="col-3">
+      <div class="row" style="height: 140px">
+        <div class="nav-bar-team">
+          <img
+            style="height: auto"
+            width="67px"
+            alt="{{ site.title }}"
+            src="{{ site.baseurl }}{{ site.logo.pubBg }}"
+          />
+          <div class="img-tip">{{page.title}}</div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="left-nav">
+          <div class="right">
+            <ul>
+              <li>
+                <span><a href="#prof">副教授</a></span>
+              </li>
+
+              <li>
+                <span><a href="#ra">科研助理</a></span>
+              </li>
+
+              <li>
+                <span><a href="#phd">博士生</a></span>
+              </li>
+
+              <li>
+                <span><a href="#master">硕士研究生</a></span>
+              </li>
+
+              <li>
+                <span><a href="#grad">本科生</a></span>
+              </li>
+
+              <li>
+                <span><a href="#biye">毕业生</a></span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="container pt-2 pb-6" style="background: #f9f9f9">
       <h2>教授</h2>
       <div class="row">
@@ -63,3 +107,18 @@ css: team_card.css
     </div>
   </div>
 </div>
+
+<script>
+  //鼠标移入区域时
+  $(".left-nav .right ul li").mouseenter(function () {
+    $(this).css({ background: "#3F6299" });
+    $(this).find("div").css({ background: "#fff" }).show(); //显示div
+    $(".div2").not($(this).find("div")).hide();
+    $(".left-nav .right ul li").not($(this)).css({ background: "#fff" });
+  });
+  //鼠标移除区域时
+  $(".left-nav .right ul li").mouseleave(function () {
+    $(this).find("div").hide(); //隐藏div
+    $(this).css({ background: "#fff" });
+  });
+</script>
