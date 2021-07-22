@@ -39,11 +39,11 @@ css: team_card.css
               </li>
 
               <li>
-                <span><a href="#grad">本科生</a></span>
+                <span><a href="#bachelor">本科生</a></span>
               </li>
 
               <li>
-                <span><a href="#biye">毕业生</a></span>
+                <span><a href="#graduated">毕业生</a></span>
               </li>
             </ul>
           </div>
@@ -51,35 +51,35 @@ css: team_card.css
       </div>
     </div>
     <div class="pt-2 pb-6 col-9" style="background: #f9f9f9">
-      <h2>教授</h2>
+      <h2 id="prof">教授</h2>
       <div class="row">
         {% assign promoted_teams = site.team | where: "promoted", true| where:
         "prof", true | sort: "weight" %} {% include components/team-card.html %}
       </div>
-      <h2>科研助理</h2>
+      <h2 id="ra">科研助理</h2>
       <div class="row">
         {% assign promoted_teams = site.team | where: "ra", true | where:
         "promoted", true | sort: "weight" %}{% include components/team-card.html
         %}
       </div>
-      <h2>博士生</h2>
+      <h2 id="phd">博士生</h2>
       <div class="row">
         {% assign promoted_teams = site.team | where: "doc", true | where:
         "promoted", true| sort: "weight" %} {% include components/team-card.html
         %}
       </div>
-      <h2>硕士研究生</h2>
+      <h2 id="master">硕士研究生</h2>
       <div class="row">
         {% assign promoted_teams = site.team | where: "master", true | where:
         "promoted", true| sort: "weight" %} {% include components/team-card.html
         %}
       </div>
-      <h2>本科生</h2>
+      <h2 id="bachelor">本科生</h2>
       <div class="row">
         {% assign promoted_teams = site.team | where: "promoted", true| where:
         "grad", true | sort: "weight" %} {% include components/team-card.html %}
       </div>
-      <h2>毕业生</h2>
+      <h2 id="graduated">毕业生</h2>
       <div class="row pt-6 pb-6">
         {% assign teams = site.team | where: "promoted", empty | sort: "weight"
         %} {% for team in teams %}
