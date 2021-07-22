@@ -1,0 +1,87 @@
+---
+title: "Research"
+date: 2018-02-22T17:01:34+07:00
+layout: page
+---
+
+<div class="text-center mb-4">
+  <h1 style="font-weight: bolder">研究内容</h1>
+</div>
+
+{%- assign researches = site.data.researches -%} {%- for research in researches
+-%}
+<div id="{{research.id}}">
+  <div class="mb-3 mt-3"><h2>{{research.name}}</h2></div>
+  {%- assign name = research.name -%}
+  <div class="border-body">
+    <div>{{research.description}}</div>
+  </div>
+  {%- assign papers = research.papers -%} {%- for paper in papers -%}
+  <table
+    style="
+      width: 100%;
+    "
+    class="shadow rounded mt-1 mb-1"
+  >
+    <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+      <td
+        style="
+          padding: 0px;
+          width: 30%;
+          vertical-align: middle;
+          border-left-style: none;
+          border-bottom-style: none;
+          border-top-style: none;
+          border-right-style: none;
+        "
+        align="center"
+      >
+        <div style="position: relative; {%- if paper.video -%}  padding: 30% 45% {%- endif -%} ">
+          {%- if paper.video -%}
+          <iframe
+            style="
+              position: absolute;
+              width: 100%;
+              height: 100%;
+              left: 0;
+              top: 0;
+            "
+            src="//{{paper.video}}"
+            scrolling="no"
+            border="0"
+            frameborder="no"
+            framespacing="0"
+            allowfullscreen="true"
+          >
+          </iframe>
+          {%- elsif paper.img -%}
+          <img
+            src="{{paper.img}}"
+            alt="hpp"
+            style="border-style: none;"
+            width="100%"
+          />
+          {%- endif -%}
+        </div>
+      </td>
+      <td
+        style="
+          padding: 10px;
+          width: 70%;
+          vertical-align: middle;
+          border-left-style: none;
+          border-bottom-style: none;
+          border-top-style: none;
+          border-right-style: none;
+        "
+      >
+        <papertitle><strong>{{paper.title}}</strong> </papertitle>
+        <br />
+        {{paper.summary}}
+      </td>
+    </tr>
+  </table>
+  <!-- <div> {{paper}} </div> -->
+  {%- endfor -%}
+</div>
+{%- endfor -%}
