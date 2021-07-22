@@ -8,8 +8,8 @@ figure.snip0051 {
     overflow: hidden;
     margin: 10px 1%;
     min-width: 220px;
-    max-width: 480px;
-    max-height: 240px;
+    max-width: 360px;
+    max-height: 180px;
     width: 100%;
     background: #000000;
 }
@@ -23,8 +23,8 @@ figure.snip0051>img {
     /* margin-right: 50%; */
     opacity: 1;
     /* width: 50%; */
-    width: 200px;
-    height: 240px;
+    width: 150px;
+    height: 180px;
     /* max-width: 240px; */
     filter: blur(0px);
     -webkit-transition: all 0.35s;
@@ -32,11 +32,11 @@ figure.snip0051>img {
 }
 
 figure.snip0051 figcaption {
-    left: 200px;
+    left: 150px;
     position: absolute;
     top: 0;
     /* width: 50%; */
-    width: 280px;
+    width: 220px;
     height: 100%;
     background: #ffffff;
 }
@@ -46,8 +46,9 @@ figure.snip0051 figcaption p {
     margin: 0;
     color: #000000;
     text-align: left;
+    font-size: x-small;
     /* position: absolute; */
-    padding: 10px 0 10px 0px;
+    padding: 5px 0 10px 0px;
     margin: 0 40px 0 20px;
 }
 
@@ -59,21 +60,21 @@ figure.snip0051 figcaption h2 {
     border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
 figure.snip0051 figcaption h2 span {
-    font-size: medium;
+    font-size: small;
     font-weight: normal;
     float: right;
     padding-top: 5px;
 }
 
 .card-content p{
-    font-size: 01em;
+    font-size: x-small;
     opacity: 0.8;
 }
 
 figure.snip0051 .icons {
     padding: 5px;
     position: absolute;
-    left: 5%;
+    left: 0%;
     top: 50%;
     padding-left: 30px;
     -webkit-transform: translateY(-50%);

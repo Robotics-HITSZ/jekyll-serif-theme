@@ -4,7 +4,7 @@ title: 成员
 css: team_card.css
 ---
 
-<div id="content">
+<div id="content" class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <div class="row">
     <div class="col-3">
       <div class="row" style="height: 140px">
@@ -50,7 +50,7 @@ css: team_card.css
         </div>
       </div>
     </div>
-    <div class="container pt-2 pb-6" style="background: #f9f9f9">
+    <div class="pt-2 pb-6 col-9" style="background: #f9f9f9">
       <h2>教授</h2>
       <div class="row">
         {% assign promoted_teams = site.team | where: "promoted", true| where:
