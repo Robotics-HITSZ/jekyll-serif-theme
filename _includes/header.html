@@ -25,6 +25,7 @@
   </div>
   <div class="container">
     <div class="navigator">
+	<div class="row">
       <div class="logo-mobile">
         <a href="{{ site.baseurl }}"
           ><img
@@ -32,9 +33,23 @@
             src="{{ site.baseurl }}{{ site.logo.mobile }}"
         /></a>
       </div>
+	  
+	  
       <div class="nav">
         {% include main-menu.html %} {% include hamburger.html %}
       </div>
+	  <!--
+	  <div class="wrapSearch">
+			<div class="search">
+				<input type="text" class="searchTerm" placeholder="What are you looking for?">
+				<button type="submit" class="searchButton">
+				<i class="fa fa-search"></i>
+				</button>
+			</div>
+	   </div>-->
+		  
+
+	</div>
     </div>
   </div>
 </div>
