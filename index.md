@@ -1,7 +1,8 @@
 ---
-title: 姜欣机器人实验室
+title: 机器人视觉与自动化实验室
 layout: home-temp
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: 哈尔滨工业大学（深圳）机器人视觉与自动化实验室，指导教师姜欣。
+keywords: 姜欣，机器人，哈尔滨工业大学，哈尔滨工业大学（深圳），深圳，哈工大（深圳）
 intro_image: 'images/index/Lab2019.jpg'
 intro_image_absolute: true
 intro_image_hide_on_mobile: true

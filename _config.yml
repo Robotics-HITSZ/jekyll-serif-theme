@@ -2,6 +2,9 @@ baseurl: '/'
 permalink: pretty
 title: '机器人视觉与自动化实验室'
 lab: 'Vision based automation science and engineering'
+description: 哈尔滨工业大学（深圳）机器人视觉与自动化实验室，指导教师姜欣。
+keywords: 姜欣，机器人，哈尔滨工业大学，哈尔滨工业大学（深圳），深圳，哈工大（深圳）
+
 
 google_analytics_id: ""
 baidu_analytics_id: "ed33d03fa163ca0f90c97f458e4659fa"
@@ -30,7 +33,7 @@ footer:
 seo:
   meta_og_title: "机器人视觉与自动化实验室"
   meta_og_type: "website"
-  meta_og_url: "https://www.hitsz-robotic.top"
+  meta_og_url: "https://www.hitsz-robotic.com"
   meta_og_image: ""
   meta_og_description: "哈尔滨工业大学（深圳） 姜欣机器人实验室"
   # meta_twitter_card: "summary"
