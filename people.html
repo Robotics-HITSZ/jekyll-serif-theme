@@ -23,7 +23,7 @@ css: team_card.css
           <div class="right">
             <ul>
               <li>
-                <span><a href="#prof">教授</a></span>
+                <span><a href="#prof">教职员工</a></span>
               </li>
 
               <li>
@@ -51,7 +51,7 @@ css: team_card.css
       </div>
     </div>
     <div class="pt-2 pb-6 col-9 shadow rounded">
-      <h2 id="prof">教授</h2>
+      <h2 id="prof">教职员工</h2>
       <div class="row">
         {% assign promoted_teams = site.team | where: "promoted", true| where:
         "prof", true | sort: "weight" %} {% include components/team-card.html %}
