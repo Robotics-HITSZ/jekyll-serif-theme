@@ -2,7 +2,7 @@
 title: Contact
 layout: contact
 bodyClass: page-contact
-permalink: /contact
+permalink: /contact/index.html
 ---
 
 课题组欢迎对本实验室研究内容感兴趣的本科、硕士、博士、博士后同学加入。  
