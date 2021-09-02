@@ -1,88 +1,72 @@
-# Jekyll Serif Theme
+## 本地配置
 
-Serif is a modern business theme for Jekyll. It contains multiple content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+1. 安装 `jekyll`
 
-[Live Demo](https://jekyll-serif.netlify.app/) | 
-[Zerostatic Themes](https://www.zerostatic.io)
+2. 直接`jekyll serve` 就可以在 `localhost:4000` 中运行了。
 
-![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
+## 服务器部署
 
-### Theme features
+1. 先`git`下来
 
-- Jekyll 4.1
-- Services (Collection)
-- Team (Collection)
-- Features (Data)
-- SCSS
-- Responsive design
-- Bootstrap 4.3 grid and media queries only
-- Responsive menu
-- 100/100 Google Lighthouse speed score
-- 100/100 Google Lighthouse seo score
-- 100/100 Google Lighthouse accessibility score
-- 100/100 Google Lighthouse best practices score
-- Under 50KB without images or 80KB with images and illustrations ⚡
-- Under 20KB without Google fonts ⚡⚡⚡
-- Robust example content included
-- Royalty free illustrations included
-- Netlify & Github Pages ready
+2. `npm i`
 
-## Installation
+3. `npm build`
 
-### Installing Ruby & Jekyll
- 
-If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
+4. `pm2 start index.js` 
 
-### Installing Theme
+> 重新运行`pm2 restart index.js`
+> 查看状态`pm2 status`
+> 停止 `pm2 stop index.js`
 
-Download or clone the theme.
+这时就会在服务器的3000端口上运行网页了。然后配置好Nginx反向代理3000端口就可以，默认是已经配置好了的。
 
-To run the theme locally, navigate to the theme directory and run:
+## 工程组织架构
 
-```
-bundle install
-``` 
+### 主目录
 
-To start the Jekyll local development server.
+- index.js: 这个是一个javascript的脚本，比较方便指定html在哪个端口运行。
+- package.json: 服务于js的一个文件，可以打包生成一些自定义的指令，这里我生成了`npm run build` | `npm run dev` 用于调试和部署。
 
-```
-bundle exec jekyll serve
-``` 
+### index
 
-To build the theme.
- 
-```
-bundle exec jekyll build
-```
+- 这里放所有的导航出来的主页面，这里尽量写成.html的形式，因为这里每个页面都不太一样，方便调整显示格式。
 
-## Deployment
+- 如果需要新建页面，可以参考其他的html，然后注意修改一下 permalink 就可以了，这个是一个绝对地址。如果没有这一项，会自动生成一个和路径相关的链接。
 
-### Stackbit
+- [ ] 需要做一下新闻的主页，显示所有新闻消息的。
 
-Use Stackbit to deploy this theme. This theme contains a valid and tested `stackbit.yaml`
+### images
 
-[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/zerostaticthemes/jekyll-serif-theme)
+- [ ] 这里暂时放一些图片，但是因为服务器的带宽很低，以后需要搞一个图床，把这里的都替换掉。
 
-### Netlify
 
-Use Netlify to deploy this theme. This theme contains a valid and tested `netlify.toml` - Feel free to use the 1-click deploy below.
+### assets
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zerostaticthemes/jekyll-serif-theme)
+这些和sass一样是一些样式文件。如果需要自定义一些css，可以参考custom中的几个来新建css。然后在自己的html中添加css:xxx.css。可以参考404.html 这样可以了。
 
-### Github Pages
-This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
 
-For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would have `baseurl: "/jekyll-serif-theme/"`
+### _team
 
-## Other
+这里就是放人员信息的数据的。
 
-### Credits
+### _post
 
-- Beautiful royalty free Illustrations by Icons8 - https://icons8.com/illustrations/style--pixeltrue
+这里添加新的新闻什么的
 
-### License
+### _layout
 
-This theme is open source under the MIT license. Please be respectful 🙏🏽
+这里是一些页面的排版
 
-* If you fork or copy this theme please leave me as an original author in the LICENSE file on line 3 where I am listed as the author.
-* Please don't create ports of this theme without at least asking me. Yes this theme is open-source but I've had several people "port" this theme (with only minor changes) and then advertise the theme as their own. Then they don't update it and it starts to get old and break etc. Now lots of people are finding these old crappy versions of the theme.
+- [ ] 需要做一下个人介绍的排版，让个人信息好看一些。
+- [ ] 需要做一下新闻的排版
+
+
+### _include
+
+这里放一些页面的小零件
+
+### _data
+
+存放数据 research 等。 
+
+- [ ] 最好把publication也整合到这里来。
