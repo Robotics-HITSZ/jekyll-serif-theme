@@ -6,7 +6,7 @@ image: "images/team/sunwei.jpg"
 jobtitle: "硕士一年级"
 master: true
 promoted: true
-weight: 12
+weight: 2004
 layout: team
 summary: "
 本科：北京邮电大学
