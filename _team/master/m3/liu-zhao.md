@@ -6,7 +6,7 @@ image: 'images/team/liuzhao.png'
 jobtitle: '硕士二年级'
 master: true
 promoted: true
-weight: 3
+weight: 1902
 layout: team
 summary: "
 本科：东北大学  <br>

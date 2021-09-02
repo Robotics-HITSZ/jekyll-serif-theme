@@ -6,7 +6,7 @@ image: "images/team/luhan.jpg"
 jobtitle: "硕士一年级"
 master: true
 promoted: true
-weight: 9
+weight: 2003
 layout: team
 summary: "
 本科：哈尔滨工业大学（深圳） <br>

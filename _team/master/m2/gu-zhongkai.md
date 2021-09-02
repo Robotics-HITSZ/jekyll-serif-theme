@@ -6,7 +6,7 @@ image: "images/team/kaikai.png"
 jobtitle: "硕士一年级"
 master: true
 promoted: true
-weight: 10
+weight: 2001
 layout: team
 summary: "
 本科：中南大学  <br>

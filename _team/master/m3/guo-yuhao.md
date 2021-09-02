@@ -6,7 +6,7 @@ image: "images/team/guoyuhao.png"
 jobtitle: "硕士二年级"
 master: true
 promoted: true
-weight: 8
+weight: 1901
 layout: team
 summary: "
 本科：湖南大学  
