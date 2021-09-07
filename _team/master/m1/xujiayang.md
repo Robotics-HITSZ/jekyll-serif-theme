@@ -9,9 +9,9 @@ promoted: true
 weight: 17
 layout: team
 summary: "
-本科：哈尔滨工业大学  <br>
+本科：哈尔滨工业大学（深圳）  <br>
 "
 ---
 
-本科：哈尔滨工业大学  
+本科：哈尔滨工业大学（深圳）  
 
