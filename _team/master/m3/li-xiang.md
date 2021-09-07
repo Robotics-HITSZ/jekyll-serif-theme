@@ -3,7 +3,7 @@ title: '李翔'
 date: 2018-12-20T13:44:30+10:00
 draft: false
 image: 'images/team/lixiang.png'
-jobtitle: '硕士二年级'
+jobtitle: '硕士三年级'
 master: true
 promoted: true
 weight: 1

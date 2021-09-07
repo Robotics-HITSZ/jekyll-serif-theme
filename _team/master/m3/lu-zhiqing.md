@@ -3,7 +3,7 @@ title: "陆之庆"
 date: 2018-12-20T13:44:55+10:00
 draft: false
 image: 'images/team/luzhiqing.png'
-jobtitle: "硕士二年级"
+jobtitle: "硕士三年级"
 email: '854265573@qq.com'
 master: true
 promoted: true
