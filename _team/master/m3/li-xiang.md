@@ -6,7 +6,7 @@ image: 'images/team/lixiang.png'
 jobtitle: '硕士三年级'
 master: true
 promoted: true
-weight: 1
+weight: 1903
 layout: team
 summary: "
 本科：湖南大学   <br>

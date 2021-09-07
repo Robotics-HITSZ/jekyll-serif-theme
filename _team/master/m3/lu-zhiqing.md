@@ -7,7 +7,7 @@ jobtitle: "硕士三年级"
 email: '854265573@qq.com'
 master: true
 promoted: true
-weight: 4
+weight: 1904
 layout: team
 summary: "
 研究内容：复杂状态下织物类柔性体的操作规划方法

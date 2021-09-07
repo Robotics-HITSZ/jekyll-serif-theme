@@ -6,7 +6,7 @@ image: "images/team/qingliang.jpg"
 jobtitle: "硕士二年级"
 master: true
 promoted: true
-weight: 13
+weight: 2005
 layout: team
 summary: "
 本科：哈尔滨工业大学（深圳）  <br>

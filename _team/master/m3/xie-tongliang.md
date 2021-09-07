@@ -6,7 +6,7 @@ image: "images/team/xietongliang.png"
 jobtitle: "硕士三年级"
 master: true
 promoted: true
-weight: 7
+weight: 1905
 layout: team
 summary: "
 本科：华南理工大学  <br>

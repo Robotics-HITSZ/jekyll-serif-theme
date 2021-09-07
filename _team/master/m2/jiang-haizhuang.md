@@ -6,7 +6,7 @@ image: "images/team/haizhuang.jpg"
 jobtitle: "硕士二年级"
 master: true
 promoted: true
-weight: 11
+weight: 2002
 layout: team
 summary: "
 本科：大连理工大学 <br>  
