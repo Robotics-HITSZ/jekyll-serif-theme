@@ -2,7 +2,7 @@
 title: "蒋成宇"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/jaingchengyu.jpg"
+image: "images/team/jiangchengyu.jpg"
 jobtitle: "硕士一年级"
 master: true
 promoted: true
