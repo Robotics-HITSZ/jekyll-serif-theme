@@ -6,7 +6,7 @@ image: 'images/team/zhouyanling.png'
 promoted: 'true'
 master: true
 jobtitle: '硕士一年级'
-weight: 2101
+weight: 2104
 layout: team
 summary: "
 本科:哈尔滨工业大学（深圳）

@@ -6,7 +6,7 @@ image: "images/team/jiangchengyu.jpg"
 jobtitle: "硕士一年级"
 master: true
 promoted: true
-weight: 16
+weight: 2102
 layout: team
 summary: "
 本科：重庆大学  <br>

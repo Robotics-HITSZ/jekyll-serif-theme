@@ -6,7 +6,7 @@ image: "images/team/chenhao.png"
 jobtitle: "硕士一年级"
 master: true
 promoted: true
-weight: 15
+weight: 2101
 layout: team
 summary: "
 本科：哈尔滨工业大学（深圳）  <br>
