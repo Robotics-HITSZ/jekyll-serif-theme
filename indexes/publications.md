@@ -13,7 +13,13 @@ permalink: /publications/index.html
 - Guo Yuhao, Xin Jiang*, and Yunhui Liu, "Deformation Control of a Deformable Object Based on Visual and Tactile Feedback”. 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Prague, Czech. (accept）  
 - Shu Miao, Dayuan Chen, Qiang Nie, Xin Jiang, Xulin Sun, Jianjun Dai, Yunhui Liu, Xiang LI, "Development of a Vision-Based Robotic Manipulation System for Transferring of Oocytes", 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Prague, Czech. (accept）
 - Xin Jiang*, Xiang Li, Robotized Interior Finishing Operations with Visual Feedback, Industrial Robot, (accept)
-  
+- Dayuan Chen, Yexi Chen, Xin Jiang and Yunhui Liu, "High-precision end-tip positioning system for automatic interior finishing process based on laser level", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), Sanya, China. (accept)   
+- Zhao Liu, Dayuan Chen, Xin Jiang and Yunhui Liu, "Putty Plastering Realized by a Force Controlled Robotic Scraper", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), Sanya, China. (accept) 
+- Ruiqiang Wang, Dayuan Chen, Xin Jiang and Yunhui Liu, "Cable Assembly in Constrained Environment Based on Contact State Transition Graph", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), Sanya, China. (accept) 
+- Xiang Li, Xin Jiang and Yunhui Liu, "Construction Robot Localization System Based on Multi-sensor Fusion and 3D Construction Drawings", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), Sanya, China. (accept) 
+- Hao Shen, Xiang Li, Xin Jiang and Yunhui Liu, "Automatic Scan Planning and Construction Progress Monitoring in Unknown Building Scene", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), Sanya, China. (accept) 
+- Zefeng Ye, Xin Jiang and Prof. Yunhui Liu, "Low-Drift RGB-D SLAM with Room Reconstruction Using Scene Understanding", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), Sanya, China. (accept)
+- Yanling Zhou, Xin Jiang, Dayuan Chen, Yuhao Guo and Yunhui Liu, "Design of a gripper for cable assembly with integrated in-hand cable manipulation functions", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), Sanya, China. (accept) 
 
 ### 2020
 - Xiaoman Wang, Xin Jiang* , Jie Zhao, Shengfan Wang and Yun-Hui Liu, "Grasping Objects Mixed with Towels", IEEE Access, Vol. 8, pp. 129338-129346, 2020. (SCI)
