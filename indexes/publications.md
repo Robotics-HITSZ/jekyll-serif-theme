@@ -9,13 +9,14 @@ permalink: /publications/index.html
 <div class="" id="publication"></div>
 # 论文成果
 ------------------
+
 ### 2022
 - Xin Jiang*, Xiang Li, Robotized Interior Finishing Operations with Visual Feedback, Industrial Robot, vol.49, no.1, pp.141-149, 2022.
 
 ### 2021
 - Guo Yuhao, Xin Jiang*, and Yunhui Liu, "Deformation Control of a Deformable Object Based on Visual and Tactile Feedback”. 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, pp.675-681, Prague, Czech.   
 - Shu Miao, Dayuan Chen, Qiang Nie, Xin Jiang, Xulin Sun, Jianjun Dai, Yunhui Liu, Xiang LI, "", 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, pp.7470-7475, Prague, Czech. 
-- Xiang Li, Xin Jiang and Yunhui Liu, "Construction Robot Localization System Based on Multi-sensor Fusion and 3D Construction Drawings", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.814-819, Sanya, China.(<strong>"Finalist of Best Student Paper Award"</strong>)
+- Xiang Li, Xin Jiang and Yunhui Liu, "Construction Robot Localization System Based on Multi-sensor Fusion and 3D Construction Drawings", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.814-819, Sanya, China. (<strong>"Finalist of Best Student Paper Award"</strong>)
 - Dayuan Chen, Yexi Chen, Xin Jiang and Yunhui Liu, "High-precision end-tip positioning system for automatic interior finishing process based on laser level", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.1941-1946, Sanya, China.   
 - Zhao Liu, Dayuan Chen, Xin Jiang and Yunhui Liu, "Putty Plastering Realized by a Force Controlled Robotic Scraper", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.1034-1039, Sanya, China.
 - Ruiqiang Wang, Dayuan Chen, Xin Jiang and Yunhui Liu, "Cable Assembly in Constrained Environment Based on Contact State Transition Graph", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), Sanya, China.  
