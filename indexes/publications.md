@@ -4,6 +4,7 @@ date: 2018-02-22T17:01:34+07:00
 layout: page-publication
 bodyClass: page-about
 permalink: /publications/index.html
+css: publication.css
 ---
 
 <div class="" id="publication"></div>
