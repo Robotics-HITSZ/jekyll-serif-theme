@@ -1,0 +1,116 @@
+---
+title: "Research"
+date: 2018-02-22T17:01:34+07:00
+layout: activities
+permalink: /activities/index.html
+---
+
+{%- assign researches = site.data.activities -%} {%- for research in researches
+-%}
+<div id="{{research.id}}" class="shadow rounded">
+  <div class="p-2">
+    <div class="mb-2 pb-2 border-bottom">
+      <div style="font-size: x-large">{{research.name}}</div>
+    </div>
+    {%- assign name = research.name -%}
+    <div class="border-body">
+      <div>{{research.description}}</div>
+    </div>
+    {%- assign papers = research.papers -%} {%- for paper in papers -%}
+    <table style="width: 100%" class="shadow-sm rounded mt-1 mb-1">
+      <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+        <td
+          style="
+            padding: 0px;
+            width: 20%;
+            vertical-align: middle;
+            border-left-style: none;
+            border-bottom-style: none;
+            border-top-style: none;
+            border-right-style: none;
+          "
+          align="center"
+        >
+          <div
+            style="position: relative; {%- if paper.video -%}  padding: 30% 45% {%- endif -%} "
+          >
+          {%- if paper.video -%}
+            <iframe
+              style="
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                left: 0;
+                top: 0;
+              "
+              src="//{{paper.video}}"
+              scrolling="no"
+			  
+              border="0"
+              frameborder="no"
+              framespacing="0"
+              allowfullscreen="true"
+            >
+            </iframe>
+			
+            {%- elsif paper.img -%}
+            <img
+              src="{{paper.img}}"
+              alt="hpp"
+              style="border-style: none"
+              width="100%"
+            />
+            
+            {%- endif -%}
+            
+          </div>
+		  
+		  {%- if paper.video2 -%}
+		  <div
+            style="position: relative; {%- if paper.video2 -%}  padding: 30% 45% {%- endif -%} "
+          >
+            
+            <iframe
+              style="
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                left: 0;
+                top: 0;
+              "
+              src="//{{paper.video2}}"
+              scrolling="no"
+              border="0"
+              frameborder="no"
+              framespacing="0"
+              allowfullscreen="true"
+            >
+            </iframe>
+			
+            
+          </div>
+		   {%- endif -%}
+        </td>
+        <td
+          style="
+            padding: 30px;
+            width: 30%;
+            vertical-align: middle;
+            border-left-style: none;
+            border-bottom-style: none;
+            border-top-style: none;
+            border-right-style: none;
+          "
+        >
+          <papertitle><a href={{paper.url}}><strong>{{paper.title}}</strong></a></p></papertitle>
+           
+          <br />
+          {{paper.summary}}
+        </td>
+      </tr>
+    </table>
+    <!-- <div> {{paper}} </div> -->
+    {%- endfor -%}
+  </div>
+</div>
+{%- endfor -%}
