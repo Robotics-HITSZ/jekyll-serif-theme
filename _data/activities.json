@@ -1,0 +1,35 @@
+[
+  {
+    "name": "学术会议",
+    "id":"doro",
+    "description": "",
+    "papers": [
+      {
+        "title": "ROBIO 2021",
+        "summary": "实验室7篇新论文被ROBIO 2021录用，李翔等人所作论文提名“Best Student Award”奖项</br></br>2021-12-29",
+        "img":"/images/post/together.jpg",
+        "url": "/news/ROBIO2021"
+      }
+    ]
+  },
+  {
+    "name": "活动日常",
+    "id": "construct",
+    "description": "",
+    "papers": [
+      {
+        "title": "实验室聚餐",
+        "summary": "</br></br>2022-1-09",
+        "img":"/images/post/jucana.jpg",
+        "url": "/news/jucan2021"
+      },
+      {
+        "title": "实验室2019级硕士毕业照",
+        "summary": "</br></br>2022-1-05",
+        "img":"/images/post/biyezhao2019.jpg",
+        "url": "/news/biyezhao2019"
+      }
+      
+    ]
+  }
+]

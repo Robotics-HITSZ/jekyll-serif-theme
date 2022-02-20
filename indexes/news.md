@@ -4,7 +4,7 @@ layout: services
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
-permalink: /news/index.html
+permalink: /news123/index.html
 ---
 
 # 热烈祝贺郭雨豪同学论文被IROS2021接收

@@ -1,0 +1,66 @@
+---
+layout: default
+---
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10" >
+    <div class="row justify-content-start" >
+		<div class="col-3">
+			<div class="row" style="height:110px">
+				<div class="nav-bar" >
+				
+				<img
+                style="height: auto"
+                width="67px"
+                alt="{{ site.title }}"
+                src="{{ site.baseurl }}{{ site.logo.reaBg }}"
+				/>
+				<div class="img-tip">研究室活动</div>
+				</div>
+				
+			</div>
+			<div class="row">
+				<div class="left-nav">
+					<div class="right">
+						<ul>
+							
+						
+							<li>
+								<span><a href="#doro">学术会议</a></span>
+								
+							</li>
+							<li>
+								<span><a href="#construct">活动日常</a></span>
+								
+							</li>
+
+						</ul>
+					</div>
+				</div>
+
+			</div>
+		
+		
+		</div>
+        <div class="col-9">
+
+                <div class="">{{content}}</div>
+        </div>
+    </div>
+  </div>
+</div>
+
+
+
+<script>
+//鼠标移入区域时
+$('.left-nav .right ul li').mouseenter(function(){
+    $(this).css({'background':'#3F6299'});
+    $(this).find('div').css({'background':'#fff'}).show();//显示div
+    $('.div2').not($(this).find('div')).hide();
+    $('.left-nav .right ul li').not($(this)).css({'background':'#fff'});
+});
+//鼠标移除区域时
+$('.left-nav .right ul li').mouseleave(function(){
+    $(this).find('div').hide();//隐藏div
+    $(this).css({'background':'#fff'})
+});
+</script>
