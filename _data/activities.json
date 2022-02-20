@@ -6,8 +6,8 @@
     "papers": [
       {
         "title": "ROBIO 2021",
-        "summary": "实验室7篇新论文被ROBIO 2021录用，李翔等人所作论文提名“Best Student Award”奖项</br></br>2021-12-31",
-        "img":"/images/research/pointCloudProcess.jpg",
+        "summary": "实验室7篇新论文被ROBIO 2021录用，李翔等人所作论文提名“Best Student Award”奖项</br></br>2021-12-29",
+        "img":"/images/post/together.jpg",
         "url": "/news/ROBIO2021"
       }
     ]
@@ -18,11 +18,18 @@
     "description": "",
     "papers": [
       {
+        "title": "实验室聚餐",
+        "summary": "</br></br>2022-1-09",
+        "img":"/images/post/jucana.jpg",
+        "url": "/news/jucan2021"
+      },
+      {
         "title": "实验室2019级硕士毕业照",
-        "summary": "</br></br>2022-1-10",
-        "video": "player.bilibili.com/player.html?   aid=504071890&bvid=BV1Ag411g7K7&cid=365351415&page=1",
-        "url": ""
+        "summary": "</br></br>2022-1-05",
+        "img":"/images/post/biyezhao2019.jpg",
+        "url": "/news/biyezhao2019"
       }
+      
     ]
   }
 ]

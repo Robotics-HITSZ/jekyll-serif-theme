@@ -11,7 +11,7 @@ main:
   - name: "研究内容"
     url: "/research/"
     weight: 4  
-  - name: "activity"
+  - name: "研究室活动"
     url: "/activities/"
     weight: 6
   - name: "教学"
@@ -26,6 +26,7 @@ main:
   - name: "内网"
     url: "https://cloud.robotics-hitsz.com"
     weight: 10
+
 
 footer:
   - name: "主页"
