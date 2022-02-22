@@ -12,6 +12,7 @@ css: publication.css
 ------------------
 
 ### 2022
+- Xiaoman Wang, Jie Zhao, Xin Jiang, Yunhui Liu, Learning-Based Fabric Folding and Box Wrapping, IEEE Robotics and Automation Letters (RA-L). (accepted)
 - Xin Jiang*, Xiang Li, Robotized Interior Finishing Operations with Visual Feedback, Industrial Robot, vol.49, no.1, pp.141-149, 2022.
 
 ### 2021
