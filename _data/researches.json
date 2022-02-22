@@ -48,6 +48,24 @@
     "description": "目前在建筑装修行业正面临着人力成本高昂，人员日益匮乏的局面。在我国，建筑行业员工流动性强，农民工居多的特点导致施工质量控制困难。针对这些问题，本研究方向研究实现机器人自主建筑施工所需相关技术。主要研究内容包括",
     "papers": [
       {
+        "title": "<a href='https://www.bilibili.com/video/BV1Gr4y1z7LV?share_source=copy_web'>基于建筑图纸与多传感器融合的建筑机器人定位系统</a>",
+        "summary": "针对建筑场景的特点，设计了一套基于建筑图纸和多传感器融合的定位系统，搭建了传感器平台，并在现实建筑环境中对平台和算法进行了测试。",
+        "video": "player.bilibili.com/player.html?aid=766835752&bvid=BV1Gr4y1z7LV&cid=514740584&page=1",
+        "url": ""
+      },
+      {
+        "title": "<a href='https://www.bilibili.com/video/BV1LY41157Pm?share_source=copy_web'>基于宏微机械臂的抹灰机器人连续多站自主作业实现方法</a>",
+        "summary": "本课题基于宏微机械臂抹灰机器人本体，主要研究多站连续作业的施工策略与自主性问题。",
+        "video": "player.bilibili.com/player.html?aid=254239673&bvid=BV1LY41157Pm&cid=514583610&page=1",
+        "url": ""
+      },
+      {
+        "title": "<a href='https://www.bilibili.com/video/BV1kL4y1G7Jq?share_source=copy_web'>基于激光水平仪的高精度自动内表面精加工末端定位系统</a>",
+        "summary": "",
+        "video": "player.bilibili.com/player.html?aid=851684541&bvid=BV1kL4y1G7Jq&cid=514583710&page=1",
+        "url": ""
+      },
+      {
         "title": "<a href='https://www.bilibili.com/video/BV1Ag411g7K7?share_source=copy_web'>基于UR机械臂的自动墙壁打磨</a>",
         "summary": "墙面的自动打磨需要实现对打磨效果的自动评估及打磨动作的自动规划。本研究使用视觉传感器，结合深度学习的方法实现了对打磨效果的自动评估（合格与否）。机器人根据评估效果决定施工区域的各个部分是否进行打磨。",
         "video": "player.bilibili.com/player.html?   aid=504071890&bvid=BV1Ag411g7K7&cid=365351415&page=1",
@@ -113,6 +131,12 @@
         "title": "<a href='https://www.bilibili.com/video/BV1Ky4y1j7gs?share_source=copy_web'><strong>工业零件的在手操作</strong></a>",
         "summary": "在工业装配应用中，一个完整的流程既包括零件的拾取（从零件盒），也包括零件安装。由于零件在零件盒的初始状态随机，因此一般情况下需要在进入装配环节前通过送料机或专用的机械臂实现零件的位姿一致。本研究通过在平行指夹具内增设操作零件的自由度，实现零件在手中位姿的自动调整。利用这个夹具，仅用一台机械臂即可实现从零件的拾取到安装的全流程。",
         "video": "player.bilibili.com/player.html?aid=759098640&bvid=BV1g64y1X7ee&cid=368448327&page=1",
+        "url": ""
+      },
+      {
+        "title": "<a href='https://www.bilibili.com/video/BV1PS4y1F7FL?share_source=copy_web'><strong>用于操作和识别线状柔性体的末端执行器的设计</strong></a>",
+        "summary": "以线状柔性体为研究对象，设计制作了一款安装于机械臂上的末端执行器，用于更好地解决自动操作和识别线状柔性体的问题。该末端执行器能够在末端不移动的情况下单独或同时完成（1）抓取线缆；（2）以任意指定角度连续扭转线缆；(3)平移滑动线缆；（4）使用触觉传感器测量线缆姿态。",
+        "video": "player.bilibili.com/player.html?aid=681625124&bvid=BV1PS4y1F7FL&cid=514583603&page=1",
         "url": ""
       }
     ]
