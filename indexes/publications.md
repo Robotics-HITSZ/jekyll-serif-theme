@@ -23,7 +23,7 @@ css: publication.css
 - Zhao Liu, Dayuan Chen, Xin Jiang and Yunhui Liu, "Putty Plastering Realized by a Force Controlled Robotic Scraper", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.1034-1039, Sanya, China.
 - Ruiqiang Wang, Dayuan Chen, Xin Jiang and Yunhui Liu, "Cable Assembly in Constrained Environment Based on Contact State Transition Graph", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), Sanya, China.  
 - Hao Shen, Xiang Li, Xin Jiang and Yunhui Liu, "Automatic Scan Planning and Construction Progress Monitoring in Unknown Building Scene", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.1617-1622,Sanya, China. 
-- Zefeng Ye, Xin Jiang and Prof. Yunhui Liu, "Low-Drift RGB-D SLAM with Room Reconstruction Using Scene Understanding", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.808-813, Sanya, China. 
+- Zefeng Ye, Xin Jiang and Yunhui Liu, "Low-Drift RGB-D SLAM with Room Reconstruction Using Scene Understanding", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.808-813, Sanya, China. 
 - Yanling Zhou, Xin Jiang, Dayuan Chen, Yuhao Guo and Yunhui Liu, "Design of a gripper for cable assembly with integrated in-hand cable manipulation functions", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), Sanya, China. 
 
 ### 2020
