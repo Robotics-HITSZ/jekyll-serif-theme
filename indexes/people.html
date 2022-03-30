@@ -78,7 +78,7 @@ permalink: /people/index.html
       <h2 id="bachelor">本科生</h2>
       <div class="row">
         {% assign promoted_teams = site.team | where: "promoted", true| where:
-        "grad", true | sort: "weight" %} {% include components/team-card.html %}
+        "bach", true | sort: "weight" %} {% include components/team-card.html %}
       </div>
       <h2 id="graduated">毕业生</h2>
       <div class="row pt-6 pb-6">
