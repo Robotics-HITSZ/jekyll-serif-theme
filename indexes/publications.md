@@ -12,6 +12,7 @@ css: publication.css
 ------------------
 
 ### 2022
+- Shu Miao, Ze Jiang, Jin Luo, Fangxun Zhong, Haoxiang Wei, Xulin Sun, Xin Jiang, Manxi Jiang, Yunhui Liu, A Robotic System with Embedded Open Microfluidic Chip for Automatic Embryo Vitrification,  IEEE Transactions on Biomedical Engineering. (accepted)
 - Xiaoman Wang, Jie Zhao, Xin Jiang, Yunhui Liu, Learning-Based Fabric Folding and Box Wrapping, IEEE Robotics and Automation Letters (RA-L). (accepted)
 - Xin Jiang*, Xiang Li, Robotized Interior Finishing Operations with Visual Feedback, Industrial Robot, vol.49, no.1, pp.141-149, 2022.
 
@@ -21,10 +22,10 @@ css: publication.css
 - Xiang Li, Xin Jiang and Yunhui Liu, "Construction Robot Localization System Based on Multi-sensor Fusion and 3D Construction Drawings", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.814-819, Sanya, China. (<strong>"Finalist of Best Student Paper Award"</strong>)
 - Dayuan Chen, Yexi Chen, Xin Jiang and Yunhui Liu, "High-precision end-tip positioning system for automatic interior finishing process based on laser level", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.1941-1946, Sanya, China.   
 - Zhao Liu, Dayuan Chen, Xin Jiang and Yunhui Liu, "Putty Plastering Realized by a Force Controlled Robotic Scraper", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.1034-1039, Sanya, China.
-- Ruiqiang Wang, Dayuan Chen, Xin Jiang and Yunhui Liu, "Cable Assembly in Constrained Environment Based on Contact State Transition Graph", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), Sanya, China.  
-- Hao Shen, Xiang Li, Xin Jiang and Yunhui Liu, "Automatic Scan Planning and Construction Progress Monitoring in Unknown Building Scene", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.1617-1622,Sanya, China. 
+- Ruiqiang Wang, Dayuan Chen, Xin Jiang and Yunhui Liu, "Cable Assembly in Constrained Environment Based on Contact State Transition Graph", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp. 305-310, Sanya, China.  
+- Hao Shen, Xiang Li, Xin Jiang and Yunhui Liu, "Automatic Scan Planning and Construction Progress Monitoring in Unknown Building Scene", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.1617-1622, Sanya, China. 
 - Zefeng Ye, Xin Jiang and Yunhui Liu, "Low-Drift RGB-D SLAM with Room Reconstruction Using Scene Understanding", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.808-813, Sanya, China. 
-- Yanling Zhou, Xin Jiang, Dayuan Chen, Yuhao Guo and Yunhui Liu, "Design of a gripper for cable assembly with integrated in-hand cable manipulation functions", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), Sanya, China. 
+- Yanling Zhou, Xin Jiang, Dayuan Chen, Yuhao Guo and Yunhui Liu, "Design of a gripper for cable assembly with integrated in-hand cable manipulation functions", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.1929-1934, Sanya, China. 
 
 ### 2020
 - Xiaoman Wang, Xin Jiang* , Jie Zhao, Shengfan Wang and Yun-Hui Liu, "Grasping Objects Mixed with Towels", IEEE Access, Vol. 8, pp. 129338-129346, 2020. (SCI)
