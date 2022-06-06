@@ -18,7 +18,7 @@ css: publication.css
 
 ### 2021
 - Guo Yuhao, Xin Jiang*, and Yunhui Liu, "Deformation Control of a Deformable Object Based on Visual and Tactile Feedback”. 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, pp.675-681, Prague, Czech.   
-- Shu Miao, Dayuan Chen, Qiang Nie, Xin Jiang, Xulin Sun, Jianjun Dai, Yunhui Liu, Xiang LI, "", 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, pp.7470-7475, Prague, Czech. 
+- Shu Miao, Dayuan Chen, Qiang Nie, Xin Jiang, Xulin Sun, Jianjun Dai, Yunhui Liu, Xiang Li, "Development of a Vision-Based Robotic Manipulation System for Transferring of Oocytes", 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, pp.7470-7475, Prague, Czech. 
 - Xiang Li, Xin Jiang and Yunhui Liu, "Construction Robot Localization System Based on Multi-sensor Fusion and 3D Construction Drawings", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.814-819, Sanya, China. (<strong>"Finalist of Best Student Paper Award"</strong>)
 - Dayuan Chen, Yexi Chen, Xin Jiang and Yunhui Liu, "High-precision end-tip positioning system for automatic interior finishing process based on laser level", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.1941-1946, Sanya, China.   
 - Zhao Liu, Dayuan Chen, Xin Jiang and Yunhui Liu, "Putty Plastering Realized by a Force Controlled Robotic Scraper", 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO2021), pp.1034-1039, Sanya, China.
