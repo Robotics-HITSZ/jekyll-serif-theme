@@ -12,8 +12,9 @@ css: publication.css
 ------------------
 
 ### 2022
+- Chen Chen, Xin Jiang, Shu Miao, Weiguo Zhou, Yunhui Liu, “Texture-less Shiny Objects Grasping in a Single RGB Image Using Synthetic Training Data”, Applied Sciences. (accepted)
 - Shu Miao, Ze Jiang, Jin Luo, Fangxun Zhong, Haoxiang Wei, Xulin Sun, Xin Jiang, Manxi Jiang, Yunhui Liu, A Robotic System with Embedded Open Microfluidic Chip for Automatic Embryo Vitrification,  IEEE Transactions on Biomedical Engineering. (accepted)
-- Xiaoman Wang, Jie Zhao, Xin Jiang, Yunhui Liu, Learning-Based Fabric Folding and Box Wrapping, IEEE Robotics and Automation Letters (RA-L). (accepted)
+- Xiaoman Wang, Jie Zhao, Xin Jiang, Yunhui Liu, Learning-Based Fabric Folding and Box Wrapping, IEEE Robotics and Automation Letters (RA-L), Vol. 7, No.2, pp. 5703-5710, 2022.
 - Xin Jiang*, Xiang Li, Robotized Interior Finishing Operations with Visual Feedback, Industrial Robot, vol.49, no.1, pp.141-149, 2022.
 
 ### 2021
