@@ -1,6 +1,8 @@
 
           2021-07-21
           <p>VBASE实验室<a href='/contact'><strong>2022级博士招聘启事</strong></a></p>
+          2022-06-18
+          <p>实验室<a href='/publications'><strong>一篇</strong>新论文</a>被Applied Sciences接受。祝贺!</p>
           2022-05-09
           <p>实验室<a href='/publications'><strong>一篇</strong>新论文</a>被 IEEE Transactions on Biomedical Engineering接受。祝贺!</p>
           2022-02-22
