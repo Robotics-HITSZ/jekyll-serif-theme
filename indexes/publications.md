@@ -12,6 +12,7 @@ css: publication.css
 ------------------
 
 ### 2022
+- MAHMOUD A. ELDOSOKY, FANYU ZENG, XIN JIANG, SHUZHI SAM GE, "Deep Transfer Learning for Wall Bulge Endpoints Regression for Autonomous Decoration Robots", IEEE ACCESS.（Accepted）
 - Yang Zhou,Peng Li,Zefeng Ye,Linzhu Yue,Linhai Gui,Xin Jiang,Xiang Li,Yun-hui Liu“Building information modeling-based 3D reconstruction and coverage planning enabled automatic painting of interior walls using a novel painting robot in construction”, journal of field robotics. (accepted)
 - haizhuang Jiang, Xin Jiang, Yanling Zhou, Haoyao Chen, Yunhui Liu, "Variable friction based in-hand manipulation of fabrics applied to unfolding operations", 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). (accepted)
 - Zhihao Wang, Lingxu Chen, Hongjin Chen, Haoyao Chen, Xin Jiang, "Fast and Safe Exploration via Adaptive Semantic Perception in Outdoor Environments", 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). (accepted)
