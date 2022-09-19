@@ -3,7 +3,7 @@ title: "顾中凯"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/kaikai.png"
-jobtitle: "硕士二年级"
+jobtitle: "硕士三年级"
 master: true
 promoted: true
 weight: 2001

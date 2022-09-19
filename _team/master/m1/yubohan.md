@@ -10,9 +10,10 @@ weight: 2201
 layout: team
 summary: "
 本科：吉林大学  <br>
+
 "
 ---
 
-本科：吉林大学
+本科：吉林大学 <br>
 qq邮箱：2607848055@qq.com  
 

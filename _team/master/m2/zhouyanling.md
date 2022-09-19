@@ -5,7 +5,7 @@ draft: false
 image: 'images/team/zhouyanling.png'
 promoted: 'true'
 master: true
-jobtitle: '硕士一年级'
+jobtitle: '硕士二年级'
 weight: 2104
 layout: team
 summary: "
