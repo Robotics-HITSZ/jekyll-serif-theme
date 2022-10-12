@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: 机器人视觉与自动化实验室
 layout: default
 description: 哈尔滨工业大学（深圳）机器人视觉与自动化实验室，指导教师姜欣。
@@ -135,4 +135,4 @@ permalink: /
       </div>   
       </div>
     </div>
-</div> -->
+</div>
