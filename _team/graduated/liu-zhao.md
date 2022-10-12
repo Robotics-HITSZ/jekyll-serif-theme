@@ -4,7 +4,7 @@ date: 2018-12-20T13:44:30+10:00
 draft: false
 image: 'images/team/liuzhao.png'
 promoted: ''
-jobtitle: '2019级，去向：'
+jobtitle: '2019级，去向：鹏城实验室在读博士'
 weight: 1920
 layout: team
 
