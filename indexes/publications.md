@@ -12,9 +12,10 @@ css: publication.css
 ------------------
 
 ### 2022
+- haizhuang Jiang, Xin Jiang, Yanling Zhou, Haoyao Chen, Yunhui Liu, "Variable-friction-based in-hand manipulation of fabrics applied to unfolding operations", 2022 IEEE Robotics and Automation Letters(RA-L). (accepted)
+- shu Miao，Chenxi Guo, Ze Jiang, Hao-xiang Wei, Xin Jiang, Jiangkai Gu, Zhuo Hai, Tianren Wang, Yunhui Liu, "Development of an Open Microfluidic Platform for Oocyte One-Stop Vitrification with Cryotop Method", Biosensors, 12, 766, 2022. (accepted)
 - MAHMOUD A. ELDOSOKY, FANYU ZENG, XIN JIANG, SHUZHI SAM GE, "Deep Transfer Learning for Wall Bulge Endpoints Regression for Autonomous Decoration Robots", IEEE ACCESS.（Accepted）
 - Yang Zhou,Peng Li,Zefeng Ye,Linzhu Yue,Linhai Gui,Xin Jiang,Xiang Li,Yun-hui Liu“Building information modeling-based 3D reconstruction and coverage planning enabled automatic painting of interior walls using a novel painting robot in construction”, journal of field robotics. (accepted)
-- haizhuang Jiang, Xin Jiang, Yanling Zhou, Haoyao Chen, Yunhui Liu, "Variable friction based in-hand manipulation of fabrics applied to unfolding operations", 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). (accepted)
 - Zhihao Wang, Lingxu Chen, Hongjin Chen, Haoyao Chen, Xin Jiang, "Fast and Safe Exploration via Adaptive Semantic Perception in Outdoor Environments", 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). (accepted)
 - Chen Chen, Xin Jiang, Shu Miao, Weiguo Zhou, Yunhui Liu, “Texture-less Shiny Objects Grasping in a Single RGB Image Using Synthetic Training Data”, Applied Sciences. (accepted)
 - Shu Miao, Ze Jiang, Jin Luo, Fangxun Zhong, Haoxiang Wei, Xulin Sun, Xin Jiang, Manxi Jiang, Yunhui Liu, A Robotic System with Embedded Open Microfluidic Chip for Automatic Embryo Vitrification,  IEEE Transactions on Biomedical Engineering. (accepted)
