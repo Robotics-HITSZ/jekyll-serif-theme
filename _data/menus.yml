@@ -1,43 +1,43 @@
-main:
-  - name: "主页"
-    url: "/"
-    weight: 2
-  - name: "成员"
-    url: "/people/"
-    weight: 3
-  - name: "论文与项目"
-    url: "/publications/"
-    weight: 5
-  - name: "研究内容"
-    url: "/research/"
-    weight: 4  
-  - name: "研究室活动"
-    url: "/activities/"
-    weight: 6
-  - name: "教学"
-    url: "/teach/"
-    weight: 7
-  - name: "新闻与公告"
-    url: "/news/"
-    weight: 8
-  - name: "相册"
-    url: "/album/"
-    weight: 9  
-  - name: "联系我们"
-    url: "/contact/"
-    weight: 10
-  - name: "内网"
-    url: "https://cloud.robotics-hitsz.com"
-    weight: 12
-  - name: "B站主页"
-    url: "https://space.bilibili.com/1237032874"
-    weight: 11
+# main:
+#   - name: "主页"
+#     url: "/"
+#     weight: 2
+#   - name: "成员"
+#     url: "/people/"
+#     weight: 3
+#   - name: "论文与项目"
+#     url: "/publications/"
+#     weight: 5
+#   - name: "研究内容"
+#     url: "/research/"
+#     weight: 4  
+#   - name: "研究室活动"
+#     url: "/activities/"
+#     weight: 6
+#   - name: "教学"
+#     url: "/teach/"
+#     weight: 7
+#   - name: "新闻与公告"
+#     url: "/news/"
+#     weight: 8
+#   - name: "相册"
+#     url: "/album/"
+#     weight: 9  
+#   - name: "联系我们"
+#     url: "/contact/"
+#     weight: 10
+#   - name: "内网"
+#     url: "https://cloud.robotics-hitsz.com"
+#     weight: 12
+#   - name: "B站主页"
+#     url: "https://space.bilibili.com/1237032874"
+#     weight: 11
 
 
-footer:
-  - name: "主页"
-    url: "/"
-    weight: 1
-  - name: "联系我们"
-    url: "/contact/"
-    weight: 2
+# footer:
+#   - name: "主页"
+#     url: "/"
+#     weight: 1
+#   - name: "联系我们"
+#     url: "/contact/"
+#     weight: 2
