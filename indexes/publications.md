@@ -12,6 +12,9 @@ css: publication.css
 ------------------
 
 ### 2022
+- Xuzhao Huang, Dayuan Chen, Yuhao Guo, Xin Jiang and Yunhui Liu, "Untangling of Multiple Deformable Linear Objects in Unknown Quantity with Complex Backgrounds", IEEE Transactions on Automation Science and Engineering. (accepted)
+- Siyu Lin, Xin Jiang and Yunhui Liu, “Cable Manipulation with Partially occluded vision Feedback” 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO2022). (accepted)
+- Chen Chen, Xin Jiang, “Cluttered reflective Metal Parts Instance Segmentation” 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO2022). (accepted)
 - haizhuang Jiang, Xin Jiang, Yanling Zhou, Haoyao Chen, Yunhui Liu, "Variable-friction-based in-hand manipulation of fabrics applied to unfolding operations", 2022 IEEE Robotics and Automation Letters(RA-L). (accepted)
 - shu Miao，Chenxi Guo, Ze Jiang, Hao-xiang Wei, Xin Jiang, Jiangkai Gu, Zhuo Hai, Tianren Wang, Yunhui Liu, "Development of an Open Microfluidic Platform for Oocyte One-Stop Vitrification with Cryotop Method", Biosensors, 12, 766, 2022. (accepted)
 - MAHMOUD A. ELDOSOKY, FANYU ZENG, XIN JIANG, SHUZHI SAM GE, "Deep Transfer Learning for Wall Bulge Endpoints Regression for Autonomous Decoration Robots", IEEE ACCESS.（Accepted）
