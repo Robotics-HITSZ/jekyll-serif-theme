@@ -12,6 +12,7 @@ css: publication.css
 ------------------
 
 ### 2022
+- Jie Zhao, Xiaoman Wang, Shao Hu, Xin Jiang, Yunhui Liu，"Planar In-hand Manipulation Using Primitive Rotations Based on Isometric Transformations", IEEE Transactions on Robotics (T-RO). (accept)
 - Xuzhao Huang, Dayuan Chen, Yuhao Guo, Xin Jiang and Yunhui Liu, "Untangling of Multiple Deformable Linear Objects in Unknown Quantity with Complex Backgrounds", IEEE Transactions on Automation Science and Engineering. (accepted)
 - Siyu Lin, Xin Jiang and Yunhui Liu, “Cable Manipulation with Partially occluded vision Feedback” 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO2022). (accepted)
 - Chen Chen, Xin Jiang, “Cluttered reflective Metal Parts Instance Segmentation” 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO2022). (accepted)
