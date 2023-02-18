@@ -133,6 +133,12 @@
     "description": "本研究方向主要面向<strong>物流</strong>及<strong>工业装配</strong>领域的应用需求，研究<strong>堆叠状态下物品的抓取方法</strong>及<strong>基于简单机构的零件在手操作方法（In-Hand Manipulation）</strong>。",
     "papers": [
       {
+        "title": "<a href='https://www.bilibili.com/video/BV1ED4y1A724/?share_source=copy_web'>Planar In-hand Manipulation Using Primitive Rotations Based on Isometric Transformations.</a>",
+        "summary": "",
+        "video": "player.bilibili.com/player.html?aid=737059943&bvid=BV1ED4y1A724&cid=1013593156&page=1",
+        "url": ""
+      },
+      {
         "title": "<a href='https://www.bilibili.com/video/BV1Pb4y1k7Rt?share_source=copy_web'>基于点云的毛巾分拣</a>",
         "summary": "使用平行指夹具进行毛巾一类织物的分拣，主要的问题在于抓取的规划。也即是回答抓什么地方，平行指以何种姿态进行夹取。本研究使用RGB",
         "video": "player.bilibili.com/player.html?aid=631598830&bvid=BV1Pb4y1k7Rt&cid=368446589&page=1",
