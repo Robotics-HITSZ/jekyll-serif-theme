@@ -1,5 +1,18 @@
 [
   {
+    "name": "2021年",
+    "id": "construct",
+    "description": "",
+    "papers": [
+      {
+        "title": "【学术动态】 实验室一新论文被IEEE Transactions on Mechatronics (T-mech)接受",
+        "summary": "祝贺!</br></br>2023-05-04",
+        "img":"/images/index/slide0.png",
+        "url": "/publications"
+      }
+    ]
+  },
+  {
     "name": "2022年",
     "id":"doro",
     "description": "",

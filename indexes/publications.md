@@ -11,6 +11,9 @@ css: publication.css
 # 论文成果
 ------------------
 
+### 2023
+- Shu Miao, Jiehuan Xu, Ze Jiang, Jin Luo, Yue Sun, Xin Jiang, Haoxiang Wei, and Yun-Hui Liu, “Microfluidics-enabled Robotic System for Embryo Vitrification with Real-Time Observation: Design, Method, and Evaluation”，IEEE Transactions on Mechatronics(T-mech). (Accept)
+
 ### 2022
 - Jie Zhao, Xiaoman Wang, Shao Hu, Xin Jiang, Yunhui Liu，“Planar In-hand Manipulation Using Primitive Rotations Based on Isometric Transformations”, IEEE Transactions on Robotics (T-RO). (accept)
 - Xuzhao Huang, Dayuan Chen, Yuhao Guo, Xin Jiang and Yunhui Liu, "Untangling of Multiple Deformable Linear Objects in Unknown Quantity with Complex Backgrounds", IEEE Transactions on Automation Science and Engineering. (accepted)
